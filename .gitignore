@@ -1,0 +1,21 @@
+.idea
+*.iml
+.DS_Store
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+logs
+*.log
+node_modules
+pids
+*.pid
+*.pem
+coverage/
